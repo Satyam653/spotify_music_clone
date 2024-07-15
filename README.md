@@ -1,2 +1,2 @@
 # spotify_music_clone
-This is a spotify music clone app using css and html
+This is a spotify music clone frontend webpage using css and html
